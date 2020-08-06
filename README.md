@@ -1,7 +1,7 @@
 ### Hello World!
 ⚡ Fun fact:  check out my website  http://wesmiller.me 
 <!--
-**Karrotts/karrotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Karrotts/karrotts** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
