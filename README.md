@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wes</h1>
 <h3 align="center">.NET Software Engineer from Columbus, Ohio</h3>
 
-- 🌱 I’m currently learning **Blazor, ASP.NET, SignalR**
+- 🌱 I’m currently learning **Blazor, ASP.NET, SignalR, Azure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
