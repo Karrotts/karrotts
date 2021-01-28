@@ -8,3 +8,7 @@
 <a href="https://codepen.io/karrotts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="karrotts" height="30" width="40" /></a>
 <a href="https://twitter.com/dev_karrotts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dev_karrotts" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karrotts&show_icons=true&locale=en&layout=compact" alt="karrotts" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karrotts&" alt="karrotts" /></p>
