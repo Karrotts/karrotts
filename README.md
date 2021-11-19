@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wes</h1>
-<h3 align="center">.NET Software Engineer from Columbus, Ohio</h3>
-<h4 align="center">I am currently working on <a href="https://github.com/Karrotts/notespace.io">notespace.io</a></h3>
+<h3 align="center">Software Engineer from Columbus, Ohio</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
