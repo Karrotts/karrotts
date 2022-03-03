@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wes</h1>
-<h3 align="center">Software Engineer from Columbus, Ohio</h3>
+<h3 align="center">I write text on a screen for a living. Feel free to check out my many personal projects!</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
