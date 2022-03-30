@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wes</h1>
+<h1 align="center">Hi, I'm Wes 🎉</h1>
 <h3 align="center">Feel free to check out my many personal projects!</h3>
 
 <h3 align="center">Connect with me:</h3>
